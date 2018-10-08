@@ -4,18 +4,18 @@ LangLTC-Cambridge is an appliction base on java technologies with spring boot as
  
 Framework and libraries implemented are :
 
-  Spring Rest 
+ --> Spring Rest 
 
-  Spring Security
+ --> Spring Security
 
-  Spring Data 
+ --> Spring Data 
 
-  Actuator
+ --> Actuator
 
-  Lombok
+ --> Lombok
   
-  Flyway 
+ --> Flyway 
   
-  Swagger
+ --> Swagger
   
   
